@@ -12,7 +12,7 @@ SO THAT I can organize and plan my business
 https://github.com/secretariuss/employee-tracker
 
 ## Video reference
-https://drive.google.com/file/d/1J9KUJMYpGvnEW2KhM0OwYc_a7cvNl7jm/view
+https://drive.google.com/file/d/1aEHG0e2m7Ndf_jn_oMwxeBKLYIrNbSVt/view
 
 ## Screen shots
 
